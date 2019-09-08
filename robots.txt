@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eepeeraeyu.ryougimana.com/sitemap.xml
